@@ -1,0 +1,32 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: wheat;
+    align-items: center;
+    padding: 10px 20px;
+    ;
+}
+ul{
+    display: flex;
+    gap: 50px;
+    list-style: none;
+    
+
+}
+.btn{
+    margin-left: 10px;
+    display: flex;
+    gap: 10px;
+    
+}
+ button{
+    height: 30px;
+    width: 100px;
+    background-color: blanchedalmond;
+ }
+ul li a{
+    text-decoration: none;
+    color: black;
+    font-weight: 1000;
+    font-size: 50px;
+}
